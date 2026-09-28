@@ -1,0 +1,31 @@
+Text,Sentiment,Polarity
+I absolutely love this product. It works perfectly!,Positive,0.75
+The service was excellent and the staff were very helpful.,Positive,0.6
+This is an amazing experience. I am very happy.,Positive,0.8
+The product quality is fantastic.,Positive,0.4
+I really enjoyed using this application.,Positive,0.5
+The delivery was fast and everything was perfect.,Positive,0.6
+This is one of the best products I have purchased.,Positive,1.0
+The customer support was very good.,Positive,0.9099999999999999
+I am satisfied with the overall experience.,Positive,0.25
+The product is useful and easy to use.,Positive,0.3666666666666667
+I hate this product. It stopped working immediately.,Negative,-0.8
+The service was terrible and very disappointing.,Negative,-0.89
+This is a horrible experience.,Negative,-1.0
+The product quality is very poor.,Negative,-0.52
+I am extremely unhappy with this purchase.,Negative,-0.6
+The delivery was late and the package was damaged.,Negative,-0.3
+This is one of the worst products I have purchased.,Negative,-1.0
+The customer support was not helpful at all.,Neutral,0.0
+I am disappointed with the overall experience.,Negative,-0.375
+The application is difficult to use and frustrating.,Negative,-0.45
+The product arrived today.,Neutral,0.0
+The service is available during working hours.,Positive,0.4
+I received the product yesterday.,Neutral,0.0
+The application has several features.,Neutral,0.0
+The package contains the product and user manual.,Neutral,0.0
+The store is located near the city center.,Neutral,0.0
+The company released a new version.,Positive,0.13636363636363635
+The delivery took three days.,Neutral,0.0
+The product is available in multiple colors.,Positive,0.2
+The meeting is scheduled for tomorrow.,Neutral,0.0
